@@ -1,0 +1,812 @@
+{
+   "Amazon_com": {
+      "message": "\u4E9E\u99AC\u905C"
+   },
+   "EDonkey": {
+      "message": "\u96FB\u9A62\u641C\u7D22"
+   },
+   "FreeDict": {
+      "message": "TheFreeDictionary"
+   },
+   "Picasa": {
+      "message": "Picasa"
+   },
+   "SauceNAO": {
+      "message": "SauceNAO"
+   },
+   "TinEye": {
+      "message": "TinEye"
+   },
+   "Yahoo": {
+      "message": "Yahoo"
+   },
+   "ag": {
+      "message": "\u81EA\u5B9A\u7FA9"
+   },
+   "alibaba": {
+      "message": "\u963F\u91CC\u5DF4\u5DF4"
+   },
+   "all": {
+      "message": "\u901A\u7528"
+   },
+   "all_chrome": {
+      "message": "Chrome\u700F\u89BD\u5668"
+   },
+   "amazon": {
+      "message": "\u4E9E\u99AC\u905C\u4E2D\u570B"
+   },
+   "ask": {
+      "message": "Ask.com"
+   },
+   "baidu": {
+      "message": "\u767E\u5EA6"
+   },
+   "baidu_news": {
+      "message": "\u767E\u5EA6\u65B0\u805E"
+   },
+   "baidu_pic": {
+      "message": "\u767E\u5EA6\u5716\u7247"
+   },
+   "baike": {
+      "message": "\u767E\u5EA6\u767E\u79D1"
+   },
+   "bbc": {
+      "message": "BBC\u4E16\u754C"
+   },
+   "bful": {
+      "message": "\u5317\u6797\u5716\u66F8\u9928"
+   },
+   "bilibili": {
+      "message": "\u55F6\u54E9\u55F6\u54E9"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_images": {
+      "message": "Bing\u5716\u7247"
+   },
+   "bing_news": {
+      "message": "Bing\u65B0\u805E"
+   },
+   "bing_site": {
+      "message": "Bing\u7DB2\u7AD9"
+   },
+   "bit": {
+      "message": "\u5317\u7406\u5DE5\u5716\u66F8\u9928"
+   },
+   "bitsnoop": {
+      "message": "bitsnoop.com"
+   },
+   "book": {
+      "message": "\u95B1\u8B80"
+   },
+   "bt": {
+      "message": "BT\u641C\u7D22"
+   },
+   "btdigg": {
+      "message": "btdigg.org"
+   },
+   "bug": {
+      "message": "\u932F\u8AA4"
+   },
+   "buofal": {
+      "message": "\u5317\u822A\u5716\u66F8\u9928"
+   },
+   "buy360": {
+      "message": "\u4EAC\u6771\u7DB2"
+   },
+   "c_bookmarks": {
+      "message": "\u66F8\u7C64\u7BA1\u7406\u5668"
+   },
+   "c_clearBD": {
+      "message": "\u6E05\u9664\u700F\u89BD\u6578\u64DA"
+   },
+   "c_credits": {
+      "message": "\u4F5C\u8005"
+   },
+   "c_downloads": {
+      "message": "\u4E0B\u8F09\u5167\u5BB9"
+   },
+   "c_extensions": {
+      "message": "\u64F4\u5C55\u7A0B\u5E8F"
+   },
+   "c_flags": {
+      "message": "\u5BE6\u9A57\u5BA4"
+   },
+   "c_history": {
+      "message": "\u6B77\u53F2\u8A18\u9304"
+   },
+   "c_memory": {
+      "message": "\u5167\u5B58"
+   },
+   "c_menGroup": {
+      "message": "\u7D44\u5408\u529F\u80FD"
+   },
+   "c_picGroup": {
+      "message": "\u7D44\u5408\u5716\u7247\u83DC\u55AE"
+   },
+   "c_plugins": {
+      "message": "\u63D2\u4EF6"
+   },
+   "c_settings": {
+      "message": "\u8A2D\u7F6E"
+   },
+   "c_txtGroup": {
+      "message": "\u7D44\u5408\u5283\u8A5E\u83DC\u55AE"
+   },
+   "c_version": {
+      "message": "\u95DC\u65BC\u7248\u672C"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "cnn": {
+      "message": "CNN"
+   },
+   "comic": {
+      "message": "\u82F1\u8A9E"
+   },
+   "dangdang": {
+      "message": "\u5679\u5679\u7DB2"
+   },
+   "description": {
+      "message": "\u64F4\u5C55\u53F3\u9375\u83DC\u55AE\u529F\u80FD\uFF0C\u96C6\u6210181\u7A2E\u529F\u80FD\u83DC\u55AE\uFF0C\u53EF\u65B9\u4FBF\u7684\u9078\u64C7\u3001\u7D44\u5408\u6216\u81EA\u5B9A\u7FA9\u9801\u9762\u83DC\u55AE\u3001\u5283\u8A5E\u641C\u7D22\u3001\u5716\u7247\u641C\u7D22\uFF0C\u63D0\u4F9B\u751F\u6210\u3001\u89E3\u6790\u4E8C\u7DAD\u78BC\u529F\u80FD\u548Cgoo.gl\u77ED\u7DB2\u5740\u751F\u6210\u529F\u80FD\u3002\u5099\u4EFD\u500B\u6027\u5316\u8A2D\u7F6E\u4E5F\u5F88\u65B9\u4FBF\uFF0C\u4E26\u53EF\u9054\u5230\u96F6\u8CC7\u6E90\u4F54\u7528\u3002"
+   },
+   "design52": {
+      "message": "\u5275\u610F\u7D20\u6750\u5EAB"
+   },
+   "dict": {
+      "message": "\u6D77\u8A5E\u8A5E\u5178"
+   },
+   "ditto": {
+      "message": "\u91CD\u8907"
+   },
+   "ditu": {
+      "message": "Google\u5730\u5716"
+   },
+   "ditu_bing": {
+      "message": "Bing\u5730\u5716"
+   },
+   "ditu_yahoo": {
+      "message": "\u96C5\u864E\u5730\u5716"
+   },
+   "dmoz": {
+      "message": "dmoz.org"
+   },
+   "douban": {
+      "message": "\u8C46\u74E3"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "eachnet": {
+      "message": "\u6613\u8DA3\u7DB2"
+   },
+   "ebay": {
+      "message": "ebay.com"
+   },
+   "edu5156": {
+      "message": "\u5728\u7DDA\u65B0\u83EF\u5B57\u5178"
+   },
+   "ekoooo": {
+      "message": "\u7D20\u6750\u85DD\u5EAB"
+   },
+   "en_chrome": {
+      "message": "\u82F1\u8A9EChrom\u700F\u89BD\u5668"
+   },
+   "en_movie": {
+      "message": "\u82F1\u6587\u8996\u983B"
+   },
+   "en_sns": {
+      "message": "\u82F1\u8A9E\u793E\u4EA4"
+   },
+   "error_url": {
+      "message": "\u7DB2\u5740\u683C\u5F0F\u932F\u8AA4: "
+   },
+   "etao": {
+      "message": "\u4E00\u6DD8"
+   },
+   "facebook": {
+      "message": "\u81C9\u66F8\u641C\u7D22"
+   },
+   "facebook_lin": {
+      "message": "Facebook\u5206\u4EAB"
+   },
+   "facebook_menu": {
+      "message": "Facebook\u5206\u4EAB"
+   },
+   "facebook_pic": {
+      "message": "Facebook\u5206\u4EAB"
+   },
+   "feature": {
+      "message": "\u529F\u80FD\u5EFA\u8B70"
+   },
+   "findicons": {
+      "message": "\u5716\u6A19\u641C\u7D22Findicons"
+   },
+   "flickr": {
+      "message": "flickr.com"
+   },
+   "frdic": {
+      "message": "\u6CD5\u8A9E\u52A9\u624B"
+   },
+   "funshion": {
+      "message": "\u98A8\u884C\u7DB2\u5F71\u8996\u641C\u7D22"
+   },
+   "fy": {
+      "message": "\u7FFB\u8B6F"
+   },
+   "gdajie": {
+      "message": "\u901B\u96FB\u9A62"
+   },
+   "gmail_lin": {
+      "message": "Gmail\u4E2D\u53D1\u9001"
+   },
+   "gmail_page": {
+      "message": "Gmail\u4E2D\u53D1\u9001"
+   },
+   "gmail_pic": {
+      "message": "Gmail\u4E2D\u53D1\u9001"
+   },
+   "gmail_txt": {
+      "message": "Gmail\u4E2D\u53D1\u9001"
+   },
+   "go_bak": {
+      "message": "\u6062\u5FA9\u5099\u4EFD"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_define": {
+      "message": "\u8C37\u6B4C\u7CBE\u6E96\u641C\u7D22"
+   },
+   "google_hk": {
+      "message": "\u8C37\u6B4C"
+   },
+   "google_img": {
+      "message": "Google\u5716\u7247"
+   },
+   "google_link": {
+      "message": "\u8C37\u6B4C\u93C8\u63A5"
+   },
+   "google_news": {
+      "message": "\u8C37\u6B4C\u65B0\u805E"
+   },
+   "google_pic": {
+      "message": "Google\u5716\u7247"
+   },
+   "google_plus": {
+      "message": "Google+"
+   },
+   "google_site": {
+      "message": "\u8C37\u6B4C\u7DB2\u7AD9"
+   },
+   "google_tw": {
+      "message": "\u7A40\u6B4C\u53F0\u7248"
+   },
+   "hotbot": {
+      "message": "hotbot.com"
+   },
+   "hudong": {
+      "message": "\u4E92\u52D5\u767E\u79D1"
+   },
+   "i18n": {
+      "message": "tw"
+   },
+   "i_about": {
+      "message": "\u95DC\u65BC"
+   },
+   "i_alert": {
+      "message": "\u589E\u52A0\u751F\u6210\u9801\u9762\u77ED\u7DB2\u5740\u5F48\u51FA\u83DC\u55AE"
+   },
+   "i_back": {
+      "message": "\u5F8C\u53F0\u65B0\u6A19\u7C64\u9801\u4E2D\u6253\u958B"
+   },
+   "i_bak": {
+      "message": "\u5099\u4EFD"
+   },
+   "i_bak_title": {
+      "message": "\u5099\u4EFD\u6062\u5FA9\u7576\u524D\u8A2D\u7F6E"
+   },
+   "i_cgroup": {
+      "message": "\u81EA\u5B9A\u7FA9\u7D44\u5408"
+   },
+   "i_custom": {
+      "message": "\u81EA\u5B9A\u7FA9"
+   },
+   "i_en": {
+      "message": "\u82F1\u8A9E"
+   },
+   "i_group": {
+      "message": "\u7D44\u5408"
+   },
+   "i_info": {
+      "message": "\u4ECB\u7D39"
+   },
+   "i_inputCustom": {
+      "message": "\u8ACB\u8F38\u5165\u81EA\u5B9A\u7FA9\u7D44\u5408\u540D\u7A31:"
+   },
+   "i_label": {
+      "message": "\u6A19\u984C"
+   },
+   "i_language": {
+      "message": "\u8A9E\u8A00\u9078\u64C7"
+   },
+   "i_lin": {
+      "message": "\u93C8\u63A5\u83DC\u55AE"
+   },
+   "i_lin_alert": {
+      "message": "\u589E\u52A0\u751F\u6210\u93C8\u63A5\u77ED\u7DB2\u5740\u5F48\u51FA\u83DC\u55AE"
+   },
+   "i_lin_title": {
+      "message": "\u53F3\u9375\u93C8\u63A5\u986F\u793A\u7684\u83DC\u55AE"
+   },
+   "i_men": {
+      "message": "\u9801\u9762\u83DC\u55AE"
+   },
+   "i_men_title": {
+      "message": "\u53F3\u64CA\u9801\u9762\u986F\u793A\u7684\u83DC\u55AE"
+   },
+   "i_menucode": {
+      "message": "\u540D\u7A31\u91CD\u8907\uFF0C\u8ACB\u4FEE\u6539\u3002"
+   },
+   "i_pic": {
+      "message": "\u5716\u7247\u83DC\u55AE"
+   },
+   "i_pic_alert": {
+      "message": "\u589E\u52A0\u751F\u6210\u5716\u7247\u77ED\u7DB2\u5740\u5F48\u51FA\u83DC\u55AE"
+   },
+   "i_pic_title": {
+      "message": "\u53F3\u9375\u5716\u7247\u986F\u793A\u7684\u83DC\u55AE"
+   },
+   "i_qr_decode": {
+      "message": "\u89E3\u6790\u5716\u7247\u4E2D\u7684\u4E8C\u7DAD\u78BC"
+   },
+   "i_s3": {
+      "message": "\u90E8\u5206\u7C21\u9AD4\u4E2D\u6587(GBK\u3001GB2312)\u5B57\u7B26\u96C6\u7DB2\u7AD9\u5982\u679C\u4E82\u78BC\u5247\u4F7F\u7528%g\u8868\u793A\u9078\u4E2D\u7684\u6587\u5B57"
+   },
+   "i_select": {
+      "message": "\u9078\u64C7"
+   },
+   "i_settings": {
+      "message": "\u8A2D\u7F6E"
+   },
+   "i_settings_title": {
+      "message": "\u5176\u4ED6\u8A2D\u7F6E"
+   },
+   "i_size": {
+      "message": "\u4E8C\u7DAD\u78BC\u5C3A\u5BF8"
+   },
+   "i_slin": {
+      "message": "\u81EA\u5B9A\u7FA9\u7DB2\u5740\u4E2D\u4F7F\u7528%s\u8868\u793A\u93C8\u63A5\u7DB2\u5740\uFF0C\u4F8B\u5982: https://www.google.com/search?q=link%3A%s"
+   },
+   "i_smen": {
+      "message": "\u81EA\u5B9A\u7FA9\u7DB2\u5740\u4E2D\u4F7F\u7528%s\u8868\u793A\u7576\u524D\u9801\u9762\u7DB2\u5740\uFF0C\u4F8B\u5982: https://twitter.com/intent/tweet?url=%s"
+   },
+   "i_sort": {
+      "message": "\u53EF\u4EE5\u4F7F\u7528\u9F20\u6A19\u62D6\u62FD\u6539\u8B8A\u9078\u64C7\u9806\u5E8F"
+   },
+   "i_spic": {
+      "message": "\u81EA\u5B9A\u7FA9\u7DB2\u5740\u4E2D\u4F7F\u7528\uFF05s\u8868\u793A\u5716\u7247\u7DB2\u5740\uFF0C\u4F8B\u5982\uFF1Ahttp://www.google.com/searchbyimage?image_url=%s"
+   },
+   "i_ss": {
+      "message": "\u5728\u83DC\u55AE\u4E2D\u986F\u793A\u9078\u64C7\u7684\u6587\u5B57"
+   },
+   "i_stxt": {
+      "message": "\u81EA\u5B9A\u7FA9\u7DB2\u5740\u4F7F\u7528%s\u8868\u793A\u9078\u4E2D\u7684\u6587\u5B57\uFF0C\u4F8B\u5982: https://www.google.com/search?q=%s"
+   },
+   "i_su_lin": {
+      "message": "\u589E\u52A0\u751F\u6210\u93C8\u63A5\u77ED\u7DB2\u5740\u8907\u88FD\u526A\u8CBC\u677F\u83DC\u55AE"
+   },
+   "i_summary": {
+      "message": "\u505A\u6700\u512A\u79C0\u7684\u53F3\u9375\u83DC\u55AE\u64F4\u5C55\u7A0B\u5E8F\u3002"
+   },
+   "i_title": {
+      "message": "\u53F3\u9375\u641C \u9078\u9805"
+   },
+   "i_txt": {
+      "message": "\u5283\u8A5E\u83DC\u55AE"
+   },
+   "i_txt_title": {
+      "message": "\u53F3\u9375\u9078\u64C7\u6587\u5B57\u986F\u793A\u7684\u83DC\u55AE"
+   },
+   "i_url": {
+      "message": "\u7DB2\u5740"
+   },
+   "i_zh_CN": {
+      "message": "\u7C21\u9AD4\u4E2D\u6587"
+   },
+   "i_zh_TW": {
+      "message": "\u7E41\u9AD4\u4E2D\u6587"
+   },
+   "iask": {
+      "message": "\u611B\u554F"
+   },
+   "iciba": {
+      "message": "\u91D1\u5C71\u8A5E\u9738"
+   },
+   "image_baidu": {
+      "message": "\u767E\u5EA6\u5716\u7247"
+   },
+   "image_youdao": {
+      "message": "\u6709\u9053\u5716\u7247"
+   },
+   "imax": {
+      "message": "\u9AD8\u6E05\u96FB\u5F71"
+   },
+   "imdb": {
+      "message": "IMDb"
+   },
+   "iqdb": {
+      "message": "\u96C6\u6210\u5716\u7247\u641C\u7D22"
+   },
+   "kankan": {
+      "message": "\u8FC5\u96F7\u770B\u770B"
+   },
+   "kd": {
+      "message": "\u5FEB\u905E\u55AE\u67E5\u8A62"
+   },
+   "kiees": {
+      "message": "\u5FEB\u905E\u4E4B\u5BB6\u55AE\u865F\u67E5\u8A62"
+   },
+   "ks_yahoo": {
+      "message": "\u96C5\u864E\u77E5\u8B58\u5802"
+   },
+   "ktxp": {
+      "message": "\u6975\u5F71\u52D5\u6F2B"
+   },
+   "ku6": {
+      "message": "\u91776\u7DB2"
+   },
+   "kuwo": {
+      "message": "\u9177\u6211\u97F3\u6A02"
+   },
+   "last": {
+      "message": "Last.fm"
+   },
+   "linGroup": {
+      "message": "\u9078\u64C7\u93C8\u63A5\u83DC\u55AE\u7D44\u5408"
+   },
+   "linSelect": {
+      "message": "\u9078\u64C7\u93C8\u63A5\u83DC\u55AE"
+   },
+   "mailme": {
+      "message": "\u4F5C\u8005"
+   },
+   "menGroup": {
+      "message": "\u9078\u64C7\u9801\u9762\u83DC\u55AE\u7D44\u5408"
+   },
+   "menSelect": {
+      "message": "\u9078\u64C7\u9801\u9762\u83DC\u55AE"
+   },
+   "missyuan": {
+      "message": "\u601D\u7DE3\u8A2D\u8A08"
+   },
+   "movie": {
+      "message": "\u5F71\u8996"
+   },
+   "mp3": {
+      "message": "\u97F3\u6A02"
+   },
+   "mtime": {
+      "message": "\u6642\u5149\u7DB2"
+   },
+   "mtv": {
+      "message": "MTV"
+   },
+   "music_baidu": {
+      "message": "\u767E\u5EA6mp3"
+   },
+   "name": {
+      "message": "\u53F3\u9375\u641C"
+   },
+   "nds": {
+      "message": "\u7DB2\u76E4\u641C\u7D22"
+   },
+   "new": {
+      "message": "\u65B0\u805E"
+   },
+   "newhua": {
+      "message": "\u83EF\u8ECD\u8EDF\u4EF6\u5712"
+   },
+   "nlc": {
+      "message": "\u570B\u5BB6\u5716\u66F8\u9928"
+   },
+   "no_results": {
+      "message": "\u672A\u627E\u5230\u5339\u914D"
+   },
+   "paipai": {
+      "message": "\u62CD\u62CD\u7DB2"
+   },
+   "pconline": {
+      "message": "\u592A\u5E73\u6D0B\u96FB\u8166"
+   },
+   "pic": {
+      "message": "\u5716\u7247"
+   },
+   "picGroup": {
+      "message": "\u9078\u64C7\u5716\u7247\u83DC\u55AE\u7D44\u5408"
+   },
+   "picSelect": {
+      "message": "\u9078\u64C7\u5716\u7247\u83DC\u55AE"
+   },
+   "pic_sogou": {
+      "message": "\u641C\u72D7\u5716\u7247"
+   },
+   "popgo": {
+      "message": "\u6F2B\u904A"
+   },
+   "pul": {
+      "message": "\u5317\u5927\u5716\u66F8\u9928"
+   },
+   "qidian": {
+      "message": "\u8D77\u9EDE\u4E2D\u6587"
+   },
+   "qiyi": {
+      "message": "\u5947\u85DD\u7DB2"
+   },
+   "qr": {
+      "message": "\u751F\u6210\u7576\u524D\u7DB2\u5740\u4E8C\u7DAD\u78BC"
+   },
+   "qr_decode": {
+      "message": "\u89E3\u6790\u5716\u7247\u4E2D\u7684\u4E8C\u7DAD\u78BC"
+   },
+   "qr_lin": {
+      "message": "\u7576\u524D\u93C8\u63A5\u751F\u6210\u4E8C\u7DAD\u78BC"
+   },
+   "qr_pic": {
+      "message": "\u7576\u524D\u5716\u7247\u751F\u6210\u4E8C\u7DAD\u78BC"
+   },
+   "qr_size": {
+      "message": "\u4E8C\u7DAD\u78BC\u5BBD\u9AD8"
+   },
+   "qr_txt": {
+      "message": "\u9078\u64C7\u6587\u5B57\u751F\u6210\u4E8C\u7DAD\u78BC"
+   },
+   "question": {
+      "message": "\u554F\u984C"
+   },
+   "r_bak": {
+      "message": "\u662F\u5426\u6062\u5FA9\u5099\u4EFD\uFF1F"
+   },
+   "readnovel": {
+      "message": "\u5C0F\u8AAA\u95B1\u8B80\u7DB2"
+   },
+   "reviews": {
+      "message": "\u8A55\u8AD6"
+   },
+   "rottentomatoes": {
+      "message": "\u721B\u756A\u8304"
+   },
+   "ruten": {
+      "message": "\u9732\u5929\u62CD\u8CE3"
+   },
+   "scholar": {
+      "message": "Google\u5B78\u8853"
+   },
+   "shooter": {
+      "message": "\u5C04\u624B\u7DB2"
+   },
+   "shop": {
+      "message": "\u8CFC\u7269"
+   },
+   "sina_new": {
+      "message": "\u65B0\u6D6A\u65B0\u805E"
+   },
+   "skb9": {
+      "message": "\u5C31\u641C\u5FEB\u64AD"
+   },
+   "skycn": {
+      "message": "\u5929\u7A7A\u4E0B\u8F09"
+   },
+   "sns": {
+      "message": "\u793E\u4EA4\u7DB2\u7D61"
+   },
+   "so_360": {
+      "message": "\u5947\u864E360"
+   },
+   "sogou": {
+      "message": "\u641C\u72D7\u641C\u7D22"
+   },
+   "sogou_pic": {
+      "message": "\u641C\u72D7\u5716\u7247"
+   },
+   "sootuu": {
+      "message": "\u641C\u5716\u7D20\u6750"
+   },
+   "soso": {
+      "message": "\u641C\u641C\u641C\u7D22"
+   },
+   "su": {
+      "message": "\u5275\u5EFA\u9801\u9762\u77ED\u7DB2\u5740\u4E26\u8907\u5236"
+   },
+   "su_alert": {
+      "message": "\u5275\u5EFA\u9801\u9762\u77ED\u7DB2\u5740"
+   },
+   "su_lin": {
+      "message": "\u5275\u5EFA\u93C8\u63A5\u77ED\u7DB2\u5740\u4E26\u8907\u5236"
+   },
+   "su_lin_alert": {
+      "message": "\u5275\u5EFA\u93C8\u63A5\u77ED\u7DB2\u5740"
+   },
+   "su_pic": {
+      "message": "\u5275\u5EFA\u5716\u7247\u77ED\u7DB2\u5740\u4E26\u8907\u5236"
+   },
+   "su_pic_alert": {
+      "message": "\u5275\u5EFA\u5716\u7247\u77ED\u7DB2\u5740"
+   },
+   "sul": {
+      "message": "\u5DDD\u5927\u5716\u66F8\u9928"
+   },
+   "surfcanyon": {
+      "message": "surfcanyon"
+   },
+   "t_qq": {
+      "message": "\u9A30\u8A0A\u5FAE\u535A"
+   },
+   "taobao": {
+      "message": "\u6DD8\u5BF6"
+   },
+   "taobao_game": {
+      "message": "\u6DD8\u5BF6\u904A\u6232"
+   },
+   "taobao_ju": {
+      "message": "\u6DD8\u5BF6\u805A\u5212\u7B97"
+   },
+   "taobao_trip": {
+      "message": "\u6DD8\u5BF6\u65C5\u884C"
+   },
+   "tieba": {
+      "message": "\u767E\u5EA6\u8CBC\u5427"
+   },
+   "title": {
+      "message": "\u53F3\u9375\u641C - \u9078\u9805"
+   },
+   "tmall": {
+      "message": "\u5929\u8C93\u5546\u57CE"
+   },
+   "tmall_chaoshi": {
+      "message": "\u5929\u8C93\u8D85\u5E02"
+   },
+   "tmall_dq": {
+      "message": "\u5929\u8C93\u96FB\u5668\u57CE"
+   },
+   "tmall_flist": {
+      "message": "\u5929\u8C93\u6BCD\u5B30"
+   },
+   "tmall_temai": {
+      "message": "\u5929\u8C93\u54C1\u724C\u7279\u8CE3"
+   },
+   "torrentz": {
+      "message": "\u7A2E\u5B50\u641C\u7D22\u5F15\u64CE"
+   },
+   "translate": {
+      "message": "Google\u7FFB\u8B6F"
+   },
+   "tsinghua": {
+      "message": "\u6E05\u83EF\u5716\u66F8\u9928"
+   },
+   "tudou": {
+      "message": "\u571F\u8C46\u7DB2"
+   },
+   "twitter": {
+      "message": "twitter"
+   },
+   "twitter_lin": {
+      "message": "Twitter \u5206\u4EAB"
+   },
+   "twitter_men": {
+      "message": "Twitter \u5206\u4EAB"
+   },
+   "twitter_pic": {
+      "message": "Twitter \u5206\u4EAB"
+   },
+   "twitter_share": {
+      "message": "Twitter \u5206\u4EAB"
+   },
+   "txtGroup": {
+      "message": "\u9078\u64C7\u5283\u8A5E\u83DC\u55AE\u7D44\u5408"
+   },
+   "txtSelect": {
+      "message": "\u9078\u64C7\u5283\u8A5E\u83DC\u55AE"
+   },
+   "ui": {
+      "message": "\u8A2D\u8A08"
+   },
+   "user": {
+      "message": "\u7528 "
+   },
+   "ustc": {
+      "message": "\u4E2D\u570B\u79D1\u6280\u5927\u5716\u66F8\u9928"
+   },
+   "utils": {
+      "message": "\u5DE5\u5177"
+   },
+   "vancl": {
+      "message": "\u51E1\u5BA2\u8AA0\u54C1"
+   },
+   "verycd": {
+      "message": "VeryCD"
+   },
+   "veryicon": {
+      "message": "veryicon\u5716\u6A19\u641C\u7D22"
+   },
+   "video_baidu": {
+      "message": "\u767E\u5EA6\u8996\u983B"
+   },
+   "weibo": {
+      "message": "\u65B0\u6D6A\u5FAE\u535A"
+   },
+   "weibo_lin": {
+      "message": "\u65B0\u6D6A\u5FAE\u535A"
+   },
+   "weibo_pic": {
+      "message": "\u65B0\u6D6A\u5FAE\u535A"
+   },
+   "weibo_txt": {
+      "message": "\u65B0\u6D6A\u5FAE\u535A"
+   },
+   "wenku": {
+      "message": "\u767E\u5EA6\u6587\u5EAB"
+   },
+   "wikipedia": {
+      "message": "\u7DAD\u57FA\u767E\u79D1"
+   },
+   "wolframalpha": {
+      "message": "wolframalpha"
+   },
+   "xiami": {
+      "message": "\u8766\u7C73"
+   },
+   "xul": {
+      "message": "\u5EC8\u5927\u5716\u66F8\u9928"
+   },
+   "xunlei": {
+      "message": "\u8FC5\u96F7\u641C\u7D22"
+   },
+   "yahoo_cn": {
+      "message": "Yahoo\u4E2D\u570B"
+   },
+   "yihao": {
+      "message": "\u4E00\u865F\u5E97"
+   },
+   "yihao_t": {
+      "message": "\u4E00\u865F\u5E97"
+   },
+   "youdao": {
+      "message": "\u6709\u9053"
+   },
+   "youdao_dict": {
+      "message": "\u6709\u9053\u7FFB\u8B6F"
+   },
+   "youku": {
+      "message": "\u512A\u9177\u7DB2"
+   },
+   "youtube": {
+      "message": "youtube"
+   },
+   "yunyun": {
+      "message": "\u4E91\u4E91\u641C\u7D22"
+   },
+   "yyets": {
+      "message": "\u4EBA\u4EBA\u5F71\u8996"
+   },
+   "zdic": {
+      "message": "\u6F22\u5178"
+   },
+   "zh_CN_sns": {
+      "message": "\u7C21\u9AD4\u4E2D\u6587\u793E\u4EA4"
+   },
+   "zhidao": {
+      "message": "\u767E\u5EA6\u77E5\u9053"
+   },
+   "zol": {
+      "message": "\u4E2D\u95DC\u6751\u5728\u7DDA"
+   },
+   "zongheng": {
+      "message": "\u7E31\u6A6B\u4E2D\u6587\u7DB2"
+   },
+   "zto": {
+      "message": "\u4E2D\u901A\u3010\u6D3E\u9001\u7BC4\u570D\u3011"
+   }
+}

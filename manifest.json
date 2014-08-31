@@ -1,0 +1,21 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/bgLib.min.js", "js/bg.min.js" ]
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com https://apis.google.com; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/16.png",
+      "48": "img/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzOF4sK8XDLNa45n1EyMwrSUrExO2bLlOBd85rwEsiJxjpVaotZuNPbRw4dTILdcWe3cEkam5OHMFBfGGTEtRNra0llKaR1aSU5QIJ4t4BdcWvcktOXb+erCjhD+/yZ47igPEk+T4pdA4RKGTOanitR3KlEaWHOg6japhrHkrDoQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "offline_enabled": false,
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "storage", "*://*/*", "tabs" ],
+   "version": "3.0.216"
+}

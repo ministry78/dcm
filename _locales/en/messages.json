@@ -1,0 +1,812 @@
+{
+   "Amazon_com": {
+      "message": "Amazon"
+   },
+   "EDonkey": {
+      "message": "EDonkey Search"
+   },
+   "FreeDict": {
+      "message": "TheFreeDictionary"
+   },
+   "Picasa": {
+      "message": "Picasa"
+   },
+   "SauceNAO": {
+      "message": "SauceNAO"
+   },
+   "TinEye": {
+      "message": "TinEye"
+   },
+   "Yahoo": {
+      "message": "Yahoo"
+   },
+   "ag": {
+      "message": "Custom"
+   },
+   "alibaba": {
+      "message": "alibaba.com"
+   },
+   "all": {
+      "message": "Universal"
+   },
+   "all_chrome": {
+      "message": "Chrome browser"
+   },
+   "amazon": {
+      "message": "amazon.cn"
+   },
+   "ask": {
+      "message": "Ask.com"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_news": {
+      "message": "Baidu News"
+   },
+   "baidu_pic": {
+      "message": "Baidu Images"
+   },
+   "baike": {
+      "message": "Baidu Baike"
+   },
+   "bbc": {
+      "message": "BBC World"
+   },
+   "bful": {
+      "message": "Beijing Forestry University Library"
+   },
+   "bilibili": {
+      "message": "bilibili.tv"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_images": {
+      "message": "Bing Images"
+   },
+   "bing_news": {
+      "message": "Bing News"
+   },
+   "bing_site": {
+      "message": "Bing site"
+   },
+   "bit": {
+      "message": "bit.edu.cn"
+   },
+   "bitsnoop": {
+      "message": "bitsnoop.com"
+   },
+   "book": {
+      "message": "Reading"
+   },
+   "bt": {
+      "message": "BT search"
+   },
+   "btdigg": {
+      "message": "btdigg.org"
+   },
+   "bug": {
+      "message": "Bug"
+   },
+   "buofal": {
+      "message": "Beijing University of Aeronautics and Astronautics Library"
+   },
+   "buy360": {
+      "message": "360buy.com"
+   },
+   "c_bookmarks": {
+      "message": "Bookmark Manager"
+   },
+   "c_clearBD": {
+      "message": "Clear browsing data"
+   },
+   "c_credits": {
+      "message": "Credits"
+   },
+   "c_downloads": {
+      "message": "Downloads"
+   },
+   "c_extensions": {
+      "message": "Extensions"
+   },
+   "c_flags": {
+      "message": "Flags"
+   },
+   "c_history": {
+      "message": "History"
+   },
+   "c_memory": {
+      "message": "About Memory"
+   },
+   "c_menGroup": {
+      "message": "Group Menus"
+   },
+   "c_picGroup": {
+      "message": "Image Menu group"
+   },
+   "c_plugins": {
+      "message": "Plug-ins"
+   },
+   "c_settings": {
+      "message": "Settings"
+   },
+   "c_txtGroup": {
+      "message": "Page menu group"
+   },
+   "c_version": {
+      "message": "About Version"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "cnn": {
+      "message": "CNN"
+   },
+   "comic": {
+      "message": "Comic"
+   },
+   "dangdang": {
+      "message": "dangdang.com"
+   },
+   "description": {
+      "message": "The extended menu, integrated 181 function menu, convenient choice, or a combination of custom page menu, drag search, image search, provide the generation and analysis of the QR function and goo.gl short URL generation function. The backup personalization is also very convenient, and can achieve zero resource occupation."
+   },
+   "design52": {
+      "message": "52design.com"
+   },
+   "dict": {
+      "message": "dict.cn"
+   },
+   "ditto": {
+      "message": " ditto"
+   },
+   "ditu": {
+      "message": "Google map"
+   },
+   "ditu_bing": {
+      "message": "Bing Ditu"
+   },
+   "ditu_yahoo": {
+      "message": "Yahoo Ditu"
+   },
+   "dmoz": {
+      "message": "dmoz open directory project "
+   },
+   "douban": {
+      "message": "douban.com"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "eachnet": {
+      "message": "eachnet.com"
+   },
+   "ebay": {
+      "message": "ebay.com"
+   },
+   "edu5156": {
+      "message": "http://xh.5156edu.com/"
+   },
+   "ekoooo": {
+      "message": "ekoooo.com"
+   },
+   "en_chrome": {
+      "message": "English Chrom browser"
+   },
+   "en_movie": {
+      "message": "English video"
+   },
+   "en_sns": {
+      "message": "English social"
+   },
+   "error_url": {
+      "message": "The URL is malformed: "
+   },
+   "etao": {
+      "message": "Etao"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_lin": {
+      "message": "Facebook Share"
+   },
+   "facebook_menu": {
+      "message": "Facebook Share"
+   },
+   "facebook_pic": {
+      "message": "Facebook Share"
+   },
+   "feature": {
+      "message": "Feature"
+   },
+   "findicons": {
+      "message": "Findicons.com"
+   },
+   "flickr": {
+      "message": "flickr.com"
+   },
+   "frdic": {
+      "message": "frdic.com"
+   },
+   "funshion": {
+      "message": "funshion.com"
+   },
+   "fy": {
+      "message": "Translation"
+   },
+   "gdajie": {
+      "message": "gdajie.com"
+   },
+   "gmail_lin": {
+      "message": "Send with Gmail"
+   },
+   "gmail_page": {
+      "message": "Send with Gmail"
+   },
+   "gmail_pic": {
+      "message": "Send with Gmail"
+   },
+   "gmail_txt": {
+      "message": "Send with Gmail"
+   },
+   "go_bak": {
+      "message": "Restore the backup"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_define": {
+      "message": "Google Definition"
+   },
+   "google_hk": {
+      "message": "Google"
+   },
+   "google_img": {
+      "message": "Google Images"
+   },
+   "google_link": {
+      "message": "Google link"
+   },
+   "google_news": {
+      "message": "Google News"
+   },
+   "google_pic": {
+      "message": "Google Images"
+   },
+   "google_plus": {
+      "message": "Google+"
+   },
+   "google_site": {
+      "message": "Google site"
+   },
+   "google_tw": {
+      "message": "Google tw"
+   },
+   "hotbot": {
+      "message": "hotbot.com"
+   },
+   "hudong": {
+      "message": "hudong.com"
+   },
+   "i18n": {
+      "message": "en"
+   },
+   "i_about": {
+      "message": "About"
+   },
+   "i_alert": {
+      "message": "Generated short URL alert for page."
+   },
+   "i_back": {
+      "message": "Open results in a background tab"
+   },
+   "i_bak": {
+      "message": "Backup"
+   },
+   "i_bak_title": {
+      "message": "Backup and recovery settings"
+   },
+   "i_cgroup": {
+      "message": "Custom Group"
+   },
+   "i_custom": {
+      "message": "Custom"
+   },
+   "i_en": {
+      "message": "English"
+   },
+   "i_group": {
+      "message": "Group"
+   },
+   "i_info": {
+      "message": "Introduction"
+   },
+   "i_inputCustom": {
+      "message": "Please enter a custom combination of name:"
+   },
+   "i_label": {
+      "message": "Title"
+   },
+   "i_language": {
+      "message": "Language Selection"
+   },
+   "i_lin": {
+      "message": "Link Menu"
+   },
+   "i_lin_alert": {
+      "message": "To increase generated link Short URL pop-up menu"
+   },
+   "i_lin_title": {
+      "message": "Right-click the link to display the menu"
+   },
+   "i_men": {
+      "message": "Page Menu"
+   },
+   "i_men_title": {
+      "message": "Right-click on the page to display the menu"
+   },
+   "i_menucode": {
+      "message": "Duplicate names, modify it."
+   },
+   "i_pic": {
+      "message": "Image Menu"
+   },
+   "i_pic_alert": {
+      "message": "Generated short URL alert for image."
+   },
+   "i_pic_title": {
+      "message": "Right-click the picture shows the menu"
+   },
+   "i_qr_decode": {
+      "message": "Parsing images in the QR."
+   },
+   "i_s3": {
+      "message": "Simplified Chinese (GBK, GB2312) character set. Garbled %g selected text"
+   },
+   "i_select": {
+      "message": "Select"
+   },
+   "i_settings": {
+      "message": "Settings"
+   },
+   "i_settings_title": {
+      "message": "Other settings"
+   },
+   "i_size": {
+      "message": "QR size"
+   },
+   "i_slin": {
+      "message": "Custom URLs using %s indicates that the link URL, for example: https://www.google.com/search?q=link%3A%s"
+   },
+   "i_smen": {
+      "message": "Custom URLs using %s indicates the current page URL, for example: https://twitter.com/intent/tweet?url=%s"
+   },
+   "i_sort": {
+      "message": "Can use the mouse to drag and drop to change the selection order"
+   },
+   "i_spic": {
+      "message": "Since the by defining URL in the use is %s to the said that image URL, for example,: http://www.google.com/searchbyimage?image_url=%s"
+   },
+   "i_ss": {
+      "message": "To display the selected text in the menu"
+   },
+   "i_stxt": {
+      "message": "Use a custom URL %s selected text, such as: https://www.google.com/search?q=%s"
+   },
+   "i_su_lin": {
+      "message": "Increase generate links short URL copy clipboard menu."
+   },
+   "i_summary": {
+      "message": "Do the best context menu extension."
+   },
+   "i_title": {
+      "message": "Context Menus Option"
+   },
+   "i_txt": {
+      "message": "Selection Menu"
+   },
+   "i_txt_title": {
+      "message": "Right-click to select the text display menu"
+   },
+   "i_url": {
+      "message": "URL"
+   },
+   "i_zh_CN": {
+      "message": "Simplified Chinese"
+   },
+   "i_zh_TW": {
+      "message": "Traditional Chinese"
+   },
+   "iask": {
+      "message": "iask"
+   },
+   "iciba": {
+      "message": "iciba.com"
+   },
+   "image_baidu": {
+      "message": "Baidu Image"
+   },
+   "image_youdao": {
+      "message": "Youdao Image"
+   },
+   "imax": {
+      "message": "imax.im"
+   },
+   "imdb": {
+      "message": "IMDb"
+   },
+   "iqdb": {
+      "message": "Multi-service image search"
+   },
+   "kankan": {
+      "message": "kankan.com"
+   },
+   "kd": {
+      "message": "China express query"
+   },
+   "kiees": {
+      "message": "China express a single number query"
+   },
+   "ks_yahoo": {
+      "message": "Yahoo ks cn"
+   },
+   "ktxp": {
+      "message": "ktxp.com"
+   },
+   "ku6": {
+      "message": "ku6.com"
+   },
+   "kuwo": {
+      "message": "kuwo.cn"
+   },
+   "last": {
+      "message": "Last.fm"
+   },
+   "linGroup": {
+      "message": "Select the link menu mix"
+   },
+   "linSelect": {
+      "message": "Select the link menu"
+   },
+   "mailme": {
+      "message": "This translation is not fluent, and I need your help."
+   },
+   "menGroup": {
+      "message": "Select page menu group"
+   },
+   "menSelect": {
+      "message": "Select page menu"
+   },
+   "missyuan": {
+      "message": "missyuan.com"
+   },
+   "movie": {
+      "message": "Television"
+   },
+   "mp3": {
+      "message": "Music"
+   },
+   "mtime": {
+      "message": "mtime.com"
+   },
+   "mtv": {
+      "message": "MTV"
+   },
+   "music_baidu": {
+      "message": "Baidu Music"
+   },
+   "name": {
+      "message": "Context Menus"
+   },
+   "nds": {
+      "message": "Network disk search"
+   },
+   "new": {
+      "message": " News"
+   },
+   "newhua": {
+      "message": "newhua.com"
+   },
+   "nlc": {
+      "message": "National Library"
+   },
+   "no_results": {
+      "message": "No match is found"
+   },
+   "paipai": {
+      "message": "paipai.com"
+   },
+   "pconline": {
+      "message": "pconline.com.cn"
+   },
+   "pic": {
+      "message": "Image"
+   },
+   "picGroup": {
+      "message": "Image Menu group"
+   },
+   "picSelect": {
+      "message": "Select Image Menu"
+   },
+   "pic_sogou": {
+      "message": "Sogou Image"
+   },
+   "popgo": {
+      "message": "popgo.org"
+   },
+   "pul": {
+      "message": "Peking University Library"
+   },
+   "qidian": {
+      "message": "qidian.com"
+   },
+   "qiyi": {
+      "message": "qiyi.com"
+   },
+   "qr": {
+      "message": "Generates QR for page"
+   },
+   "qr_decode": {
+      "message": "Parsing QR in the images"
+   },
+   "qr_lin": {
+      "message": "Generates QR for link"
+   },
+   "qr_pic": {
+      "message": "Generates QR for image"
+   },
+   "qr_size": {
+      "message": "QR size"
+   },
+   "qr_txt": {
+      "message": "Generates QR for select text."
+   },
+   "question": {
+      "message": "Question"
+   },
+   "r_bak": {
+      "message": "Restore the backup?"
+   },
+   "readnovel": {
+      "message": "readnovel.com"
+   },
+   "reviews": {
+      "message": "Reviews"
+   },
+   "rottentomatoes": {
+      "message": "Rotten Tomatoes"
+   },
+   "ruten": {
+      "message": "ruten.com"
+   },
+   "scholar": {
+      "message": "Google Scholar"
+   },
+   "shooter": {
+      "message": "shooter.cn"
+   },
+   "shop": {
+      "message": "Shopping"
+   },
+   "sina_new": {
+      "message": "Sina News"
+   },
+   "skb9": {
+      "message": "9skb.com"
+   },
+   "skycn": {
+      "message": "skycn.com"
+   },
+   "sns": {
+      "message": "Social Networking"
+   },
+   "so_360": {
+      "message": "qihoo360"
+   },
+   "sogou": {
+      "message": "Sogou.com"
+   },
+   "sogou_pic": {
+      "message": "Sogou Pic"
+   },
+   "sootuu": {
+      "message": "sootuu.com"
+   },
+   "soso": {
+      "message": "Soso.com"
+   },
+   "su": {
+      "message": "Create short URL to clipboard"
+   },
+   "su_alert": {
+      "message": "Create short URL"
+   },
+   "su_lin": {
+      "message": "Create short URL of the link and copy"
+   },
+   "su_lin_alert": {
+      "message": "Create link Short URL"
+   },
+   "su_pic": {
+      "message": "Create image short URL to clipboard"
+   },
+   "su_pic_alert": {
+      "message": "Create short URL for image"
+   },
+   "sul": {
+      "message": "Sichuan University Library"
+   },
+   "surfcanyon": {
+      "message": "surfcanyon.com"
+   },
+   "t_qq": {
+      "message": "QQ Microblogging"
+   },
+   "taobao": {
+      "message": "Taobao"
+   },
+   "taobao_game": {
+      "message": "Taobao Game"
+   },
+   "taobao_ju": {
+      "message": "Taobao Ju"
+   },
+   "taobao_trip": {
+      "message": "Taobao Trip"
+   },
+   "tieba": {
+      "message": "Baidu Tieba"
+   },
+   "title": {
+      "message": "Context Menus - Option"
+   },
+   "tmall": {
+      "message": "tmall.com"
+   },
+   "tmall_chaoshi": {
+      "message": "Tmall Supermarket"
+   },
+   "tmall_dq": {
+      "message": "Tmall Electrical"
+   },
+   "tmall_flist": {
+      "message": "Tmall Flist"
+   },
+   "tmall_temai": {
+      "message": "Tmall Temai"
+   },
+   "torrentz": {
+      "message": "Torrent Search Engine"
+   },
+   "translate": {
+      "message": "Google Translate"
+   },
+   "tsinghua": {
+      "message": "tsinghua.edu.cn"
+   },
+   "tudou": {
+      "message": "tudou.com"
+   },
+   "twitter": {
+      "message": "twitter"
+   },
+   "twitter_lin": {
+      "message": "Twitter Share"
+   },
+   "twitter_men": {
+      "message": "Twitter Share"
+   },
+   "twitter_pic": {
+      "message": "Twitter Share"
+   },
+   "twitter_share": {
+      "message": "Twitter Share"
+   },
+   "txtGroup": {
+      "message": "Select the word search group"
+   },
+   "txtSelect": {
+      "message": "Select the word search"
+   },
+   "ui": {
+      "message": "Design"
+   },
+   "user": {
+      "message": "Search "
+   },
+   "ustc": {
+      "message": "University of Science and Technology of China Library"
+   },
+   "utils": {
+      "message": "Utils"
+   },
+   "vancl": {
+      "message": "vancl.com"
+   },
+   "verycd": {
+      "message": "VeryCD"
+   },
+   "veryicon": {
+      "message": "veryicon.com"
+   },
+   "video_baidu": {
+      "message": "Baidu Video"
+   },
+   "weibo": {
+      "message": "Sina microblogging"
+   },
+   "weibo_lin": {
+      "message": "Sina microblogging"
+   },
+   "weibo_pic": {
+      "message": "Sina microblogging"
+   },
+   "weibo_txt": {
+      "message": "Sina microblogging"
+   },
+   "wenku": {
+      "message": "Baidu Wenku"
+   },
+   "wikipedia": {
+      "message": "Wikipedia"
+   },
+   "wolframalpha": {
+      "message": "wolframalpha"
+   },
+   "xiami": {
+      "message": "xiami.com"
+   },
+   "xul": {
+      "message": "Xiamen University Library"
+   },
+   "xunlei": {
+      "message": "xunlei"
+   },
+   "yahoo_cn": {
+      "message": "Yahoo China"
+   },
+   "yihao": {
+      "message": "yihaodian.com"
+   },
+   "yihao_t": {
+      "message": "yihaodian.com"
+   },
+   "youdao": {
+      "message": "youdao.com"
+   },
+   "youdao_dict": {
+      "message": "Youdao Translation"
+   },
+   "youku": {
+      "message": "youku.com"
+   },
+   "youtube": {
+      "message": "youtube"
+   },
+   "yunyun": {
+      "message": "yunyun.com"
+   },
+   "yyets": {
+      "message": "yyets.com"
+   },
+   "zdic": {
+      "message": "zdic.net"
+   },
+   "zh_CN_sns": {
+      "message": "Simplified Chinese social"
+   },
+   "zhidao": {
+      "message": "Baidu Zhidao"
+   },
+   "zol": {
+      "message": "zol.com.cn"
+   },
+   "zongheng": {
+      "message": "zongheng.com"
+   },
+   "zto": {
+      "message": "Through delivery range"
+   }
+}
