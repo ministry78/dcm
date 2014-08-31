@@ -11,11 +11,19 @@
       "16": "img/16.png",
       "48": "img/48.png"
    },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/19.png",
+         "38": "img/38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_name__"
+   },
    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzOF4sK8XDLNa45n1EyMwrSUrExO2bLlOBd85rwEsiJxjpVaotZuNPbRw4dTILdcWe3cEkam5OHMFBfGGTEtRNra0llKaR1aSU5QIJ4t4BdcWvcktOXb+erCjhD+/yZ47igPEk+T4pdA4RKGTOanitR3KlEaWHOg6japhrHkrDoQIDAQAB",
    "manifest_version": 2,
    "name": "__MSG_name__",
    "offline_enabled": false,
    "options_page": "options.html",
    "permissions": [ "contextMenus", "storage", "*://*/*", "tabs" ],
-   "version": "3.0.216"
+   "version": "13.78"
 }
